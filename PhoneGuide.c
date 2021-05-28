@@ -1,6 +1,6 @@
 /*
 	Description: Telefon Rehberi / Phone Guide
-	Copyright: Muhammet Fatih KESK�N
+	Copyright: Muhammet Fatih KESKIN - 2017
 */
 
 #include <stdio.h>
